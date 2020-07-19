@@ -1,6 +1,12 @@
 # CRUD-App 
 Create Read Update Delete in Mongo Database by using Object id, made with NodeJS, ExpressJS, mongoose ODM
-# Start by using nodemon:
+### How to Start
 ```
-npm start
-```
+# install depedencies
+$ npm install
+
+# start using nodemon
+$ npm start
+
+# reach http://localhost:3000
+
